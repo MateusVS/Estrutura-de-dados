@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520092166 source:c:\users\aluno\desktop\3-3\exercicio1\passagem\exemplo\exemplo\main.cpp
+	<iostream>
+	<string.h>
+	<locale.h>
+

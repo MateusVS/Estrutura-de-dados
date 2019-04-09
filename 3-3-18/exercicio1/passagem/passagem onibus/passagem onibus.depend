@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520088171 source:c:\users\aluno\desktop\3-3\exercicio1\passagem\passagem onibus\main.cpp
+	<iostream>
+	<locale.h>
+
